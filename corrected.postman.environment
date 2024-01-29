@@ -1,0 +1,21 @@
+{
+	"id": "10d41689-d208-4376-b6ff-f000d78c5d87",
+	"name": "Pst1",
+	"values": [
+		{
+			"key": "env_content",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-29T12:03:49.090Z",
+	"_postman_exported_using": "Postman/10.22.6"
+}
